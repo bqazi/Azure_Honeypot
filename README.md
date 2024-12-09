@@ -1,5 +1,5 @@
 Azure Honeypot: Real-World Cyber Attacks
-![Overview](https://github.com/bqazi/Azure_Honeypot/blob/main/images/outline.png <br><br>
+![Overview](https://github.com/bqazi/Azure_Honeypot/blob/main/images/outline.png) <br><br>
 
 # Overview
 The objective of this project was to set up a live virtual machine that acts as a honeypot to attract and analyze cyber attacks. 
@@ -29,7 +29,7 @@ After 12 hours of observation, the following map shows the number of attacks:
 ![12 hours post script](https://github.com/bqazi/Azure_Honeypot/blob/main/images/RDP_map.png) <br><br>
 
 After 24 hours of observation, the primary attacks shifted geographically and at a higher rate:
-![24 hours post script](https://github.com/bqazi/Azure_Honeypot/blob/main/images/RDP_map_24.png <br><br>
+![24 hours post script](https://github.com/bqazi/Azure_Honeypot/blob/main/images/RDP_map_24.png) <br><br>
 
 The data helps to show patterns, frequency, and distribution of attacks from around the world. This highlights the importance of good security practices. 
 Attackers are attempting to breach networks from any place and at any time. It’s crucial to implement best practices in your specific infrastructure with 
