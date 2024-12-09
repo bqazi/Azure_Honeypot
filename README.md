@@ -21,7 +21,8 @@ In addition, Microsoft Sentinel is used to query incident data and build attack 
 Using remote access on the local machine to access the VM’s operating system (Windows 10), the PowerShell script (in this repository) is run. It is designed to perform the following:
 * Collect failed RDP attack logs from the Windows Event Viewer 
 * Use third-party API to collect the attacker’s geolocation
-* Outputs a log file to the local machine with the data  <br><br>
+* Outputs a log file to the local machine with the data  <br><br />
+
 As the script is run, the attack logs begin to record and the data is collected.
 
 ## Results
